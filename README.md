@@ -61,9 +61,8 @@ rspec ./spec/requests/posts_spec.rb
 
 👤 **Fabiano Frank**
 
-- GitHub: [@fabianofrank](https://github.com/fabianofrank)
-- Twitter: [@fabianofrankk](https://twitter.com/fabianofrankk)
-- LinkedIn: [fabianofrank](https://www.linkedin.com/in/fabianofrank/)
+- GitHub: [@fabianomag](https://github.com/fabianomag)
+- LinkedIn: [fabianomag](https://www.linkedin.com/in/fabianomag/)
 
 👤 **Jose**
 
