@@ -59,7 +59,7 @@ rspec ./spec/requests/posts_spec.rb
 
 ## Authors
 
-👤 **Fabiano Magalhaes**
+👤 **Fabiano Magalhães**
 
 - GitHub: [@fabianomag](https://github.com/fabianomag)
 - LinkedIn: [fabianomag](https://www.linkedin.com/in/fabianomag/)
